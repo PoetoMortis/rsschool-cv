@@ -1,1 +1,1 @@
-https://github.com/PoetoMortis/rsschool-cv/blob/gh-pages/cv.md
+https://poetomortis.github.io/rsschool-cv/cv
